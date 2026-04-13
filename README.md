@@ -19,6 +19,7 @@ This project builds a complete end-to-end data science pipeline to predict loan 
 | 📊 ML Models Tested | 6 |
 
 <img src="https://github.com/Mohamed-Nofal-DataAnalysis/loan-approval-prediction/blob/main/Project%20Overview.png">
+
 ---
 
 ## 📊 Dataset
