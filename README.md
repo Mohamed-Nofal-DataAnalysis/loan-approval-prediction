@@ -115,7 +115,6 @@ loan-approval-prediction/
 | Gradient Boosting | 75.8% |
 | KNN | 72.6% |
 
-<img src="https://github.com/Mohamed-Nofal-DataAnalysis/loan-approval-prediction/blob/main/Machine%20Learning%20Model.png">
 
 ### 5. Power BI Dashboard
 - **KPI Cards:** Total Requests, Approval Rate, Avg Loan Amount, Median Income, Good Credit Ratio
@@ -167,9 +166,11 @@ Open `dashboard/Loan_Approval_Dashboard.pbix` in Microsoft Power BI Desktop
 
 ## 💡Project Insights
 
-- Insight 1 — Credit History is the #1 Decision Driver
+- Insight 1
+  — Credit History is the #1 Decision Driver
 With 85.5% of applicants having good credit history and approvals concentrated in this group, Credit_History is by far the most predictive feature. Any loan scoring model should treat it as the primary filter before considering other variables.
-- Insight 2 — Education Creates a Clear Approval Gap
+- Insight 2
+  — Education Creates a Clear Approval Gap
 Graduates received a 70.8% approval rate vs significantly lower for non-graduates. This gap widens when combined with marital status — married graduates represent the highest-approval demographic segment in the dataset.
 - Insight 3 — Location Signals Risk and Demand
 Semiurban areas drove the highest loan request volume (233 applications) AND the best approval rates — outperforming both Urban and Rural. Rural applicants showed the lowest approval rates, possibly reflecting income volatility or collateral concerns.
