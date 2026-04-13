@@ -138,40 +138,17 @@ loan-approval-prediction/
 <img src="https://github.com/Mohamed-Nofal-DataAnalysis/loan-approval-prediction/blob/main/Dashboard.png">
 <img src="https://github.com/Mohamed-Nofal-DataAnalysis/loan-approval-prediction/blob/main/Key%20Insights%20from%20the%20Dashboard.png">
 
----
-
-## 🚀 How to Run
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/YOUR_USERNAME/loan-approval-prediction.git
-cd loan-approval-prediction
-```
-
-### 2. Install Dependencies
-```bash
-pip install pandas numpy seaborn scikit-learn matplotlib jupyter
-```
-
-### 3. Run the Notebook
-```bash
-jupyter notebook notebook/Loan_Status_Prediction.ipynb
-```
-
-### 4. Open Power BI Dashboard
-Open `dashboard/Loan_Approval_Dashboard.pbix` in Microsoft Power BI Desktop
-
 
 ---
 
 ## 💡Project Insights
 
-- Insight 1
-  — Credit History is the #1 Decision Driver
-With 85.5% of applicants having good credit history and approvals concentrated in this group, Credit_History is by far the most predictive feature. Any loan scoring model should treat it as the primary filter before considering other variables.
-- Insight 2
-  — Education Creates a Clear Approval Gap
-Graduates received a 70.8% approval rate vs significantly lower for non-graduates. This gap widens when combined with marital status — married graduates represent the highest-approval demographic segment in the dataset.
+- ### Insight 1
+  Credit History is the #1 Decision Driver
+  With 85.5% of applicants having good credit history and approvals concentrated in this group, Credit_History is by far the most predictive feature. Any loan scoring model should treat it as the primary filter before considering other variables.
+- ### Insight 2
+  Education Creates a Clear Approval Gap
+  Graduates received a 70.8% approval rate vs significantly lower for non-graduates. This gap widens when combined with marital status — married graduates represent the highest-approval demographic segment in the dataset.
 - Insight 3 — Location Signals Risk and Demand
 Semiurban areas drove the highest loan request volume (233 applications) AND the best approval rates — outperforming both Urban and Rural. Rural applicants showed the lowest approval rates, possibly reflecting income volatility or collateral concerns.
 - Insight 4 — Family Size Has a Non-Linear Effect
@@ -200,6 +177,30 @@ Future improvements could include: hyperparameter tuning, SHAP values for model 
 This project is a strong foundation for anyone looking to break into financial analytics, data science, or BI reporting — combining the full data lifecycle in a single, well-documented portfolio piece.
 
 <img src="https://github.com/Mohamed-Nofal-DataAnalysis/loan-approval-prediction/blob/main/Conclusions%20%26%20Takeaways.png">
+
+---
+
+
+## 🚀 How to Run
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/YOUR_USERNAME/loan-approval-prediction.git
+cd loan-approval-prediction
+```
+
+### 2. Install Dependencies
+```bash
+pip install pandas numpy seaborn scikit-learn matplotlib jupyter
+```
+
+### 3. Run the Notebook
+```bash
+jupyter notebook notebook/Loan_Status_Prediction.ipynb
+```
+
+### 4. Open Power BI Dashboard
+Open `dashboard/Loan_Approval_Dashboard.pbix` in Microsoft Power BI Desktop
 
 ---
 
