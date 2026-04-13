@@ -120,6 +120,9 @@ loan-approval-prediction/
 - **Charts:** Approval by Education & Marital Status, Dependents Impact, Property Area Analysis, Gender Distribution, Loan Status Breakdown
 - **6 Interactive Slicers** for full data exploration
 
+<img src="https://github.com/Mohamed-Nofal-DataAnalysis/loan-approval-prediction/blob/main/Exploratory%20Data%20Analysis%20%26%20Cleaning.png">
+<img src="https://github.com/Mohamed-Nofal-DataAnalysis/loan-approval-prediction/blob/main/Machine%20Learning%20Model.png">
+
 ---
 
 ## 💡 Key Insights
@@ -130,6 +133,9 @@ loan-approval-prediction/
 - 👨‍👩‍👧 **Dependents impact** — approval peaks at 1–2 dependents, drops at 3+
 - ⚖️ **No gender bias detected** — Female 50.79% vs Male 49.21%, nearly equal distribution
 - 💍 **Married applicants** show 71.8% approval rate
+
+<img src="https://github.com/Mohamed-Nofal-DataAnalysis/loan-approval-prediction/blob/main/Dashboard.png">
+<img src="https://github.com/Mohamed-Nofal-DataAnalysis/loan-approval-prediction/blob/main/Key%20Insights%20from%20the%20Dashboard.png">
 
 ---
 
@@ -159,3 +165,10 @@ Open `dashboard/Loan_Approval_Dashboard.pbix` in Microsoft Power BI Desktop
 ## 📬 Connect
 
 If you found this project useful, feel free to ⭐ star the repository and connect!
+---
+
+## 👨‍💼 Author
+Mohamed Nofal
+Data & Business Analyst  
+> Transforming raw data into actionable business insights.
+
