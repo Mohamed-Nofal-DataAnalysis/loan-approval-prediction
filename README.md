@@ -150,17 +150,17 @@ loan-approval-prediction/
   Education Creates a Clear Approval Gap
   Graduates received a 70.8% approval rate vs significantly lower for non-graduates. This gap widens when combined with marital status — married graduates represent the highest-approval demographic segment in the dataset.
 - ### Insight 3
- Location Signals Risk and Demand
- Semiurban areas drove the highest loan request volume (233 applications) AND the best approval rates — outperforming both Urban and Rural. Rural applicants showed the lowest approval rates, possibly reflecting income volatility or collateral concerns.
+  Location Signals Risk and Demand
+  Semiurban areas drove the highest loan request volume (233 applications) AND the best approval rates — outperforming both Urban and Rural. Rural applicants showed the lowest approval rates, possibly reflecting income volatility or collateral concerns.
 - ### Insight 4
- Family Size Has a Non-Linear Effect
- Loan requests peak at 0 dependents (360 applications), but approval rates improve for applicants with 1-2 dependents before dropping sharply at 3+. Moderate family responsibility is not a risk signal — but large dependent counts raise concerns about disposable income.
+  Family Size Has a Non-Linear Effect
+  Loan requests peak at 0 dependents (360 applications), but approval rates improve for applicants with 1-2 dependents before dropping sharply at 3+. Moderate family responsibility is not a risk signal — but large dependent counts raise concerns about disposable income.
 - ### Insight 5
- Gender Bias is Minimal, Marital Status Matters More
- Gender distribution is nearly equal (Female 50.79% vs Male 49.21%) and approval rates are comparable — no significant gender bias detected. However, married applicants achieved 71.8% approval, making marital status a stronger signal than gender alone.
+  Gender Bias is Minimal, Marital Status Matters More
+  Gender distribution is nearly equal (Female 50.79% vs Male 49.21%) and approval rates are comparable — no significant gender bias detected. However, married applicants achieved 71.8% approval, making marital status a stronger signal than gender alone.
 - ### Insight 6
- Income-to-Loan Ratio is Reasonable Across the Dataset
- With median income $5.4K and avg loan $145.8K, most applicants request amounts within plausible repayment range. Extreme income outliers (up to $81K) did not guarantee approval — reinforcing that credit history dominates income as the key approval signal.
+  Income-to-Loan Ratio is Reasonable Across the Dataset
+  With median income $5.4K and avg loan $145.8K, most applicants request amounts within plausible repayment range. Extreme income outliers (up to $81K) did not guarantee approval — reinforcing that credit history dominates income as the key approval signal.
 
 ---
 
