@@ -115,6 +115,8 @@ loan-approval-prediction/
 | Gradient Boosting | 75.8% |
 | KNN | 72.6% |
 
+<img src="https://github.com/Mohamed-Nofal-DataAnalysis/loan-approval-prediction/blob/main/Machine%20Learning%20Model.png">
+
 ### 5. Power BI Dashboard
 - **KPI Cards:** Total Requests, Approval Rate, Avg Loan Amount, Median Income, Good Credit Ratio
 - **Charts:** Approval by Education & Marital Status, Dependents Impact, Property Area Analysis, Gender Distribution, Loan Status Breakdown
@@ -160,12 +162,9 @@ jupyter notebook notebook/Loan_Status_Prediction.ipynb
 ### 4. Open Power BI Dashboard
 Open `dashboard/Loan_Approval_Dashboard.pbix` in Microsoft Power BI Desktop
 
+
 ---
 
-## 📬 Connect
-
-If you found this project useful, feel free to ⭐ star the repository and connect!
----
 ## 💡Project Insights
 
 - Insight 1 — Credit History is the #1 Decision Driver
@@ -180,6 +179,8 @@ Loan requests peak at 0 dependents (360 applications), but approval rates improv
 Gender distribution is nearly equal (Female 50.79% vs Male 49.21%) and approval rates are comparable — no significant gender bias detected. However, married applicants achieved 71.8% approval, making marital status a stronger signal than gender alone.
 - Insight 6 — Income-to-Loan Ratio is Reasonable Across the Dataset
 With median income $5.4K and avg loan $145.8K, most applicants request amounts within plausible repayment range. Extreme income outliers (up to $81K) did not guarantee approval — reinforcing that credit history dominates income as the key approval signal.
+
+---
 
 ## 🏁  Final Conclusion
 
@@ -197,6 +198,13 @@ Future improvements could include: hyperparameter tuning, SHAP values for model 
 
 This project is a strong foundation for anyone looking to break into financial analytics, data science, or BI reporting — combining the full data lifecycle in a single, well-documented portfolio piece.
 
+<img src="https://github.com/Mohamed-Nofal-DataAnalysis/loan-approval-prediction/blob/main/Conclusions%20%26%20Takeaways.png">
+
+---
+
+## 📬 Connect
+
+If you found this project useful, feel free to ⭐ star the repository and connect!
 ## 👨‍💼 Author
 Mohamed Nofal
 Data & Business Analyst  
